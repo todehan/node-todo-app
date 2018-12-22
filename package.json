@@ -1,0 +1,15 @@
+{
+  "name": "node-todo",
+  "version": "",
+  "description": "",
+  "main": "server.js",
+  "author": "",
+  "dependencies": {
+    "angular": "^1.7.5",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "method-override": "^2.3.10",
+    "mongoose": "^4.10.8",
+    "morgan": "^1.9.1"
+  }
+}
